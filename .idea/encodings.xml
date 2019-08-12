@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/wow-auth-center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wow-common-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wow-interface-remote" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wow-mall-center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wow-news-center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wow-occupation-center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wow-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wow-recharge-center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wow-web-api" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

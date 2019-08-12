@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/wow-auth-center/wow-auth-center.iml" filepath="$PROJECT_DIR$/wow-auth-center/wow-auth-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wow-common-api/wow-common-api.iml" filepath="$PROJECT_DIR$/wow-common-api/wow-common-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wow-interface-remote/wow-interface-remote.iml" filepath="$PROJECT_DIR$/wow-interface-remote/wow-interface-remote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wow-mall-center/wow-mall-center.iml" filepath="$PROJECT_DIR$/wow-mall-center/wow-mall-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wow-news-center/wow-news-center.iml" filepath="$PROJECT_DIR$/wow-news-center/wow-news-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wow-occupation-center/wow-occupation-center.iml" filepath="$PROJECT_DIR$/wow-occupation-center/wow-occupation-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wow-parent/wow-parent.iml" filepath="$PROJECT_DIR$/wow-parent/wow-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wow-recharge-center/wow-recharge-center.iml" filepath="$PROJECT_DIR$/wow-recharge-center/wow-recharge-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wow-web-api/wow-web-api.iml" filepath="$PROJECT_DIR$/wow-web-api/wow-web-api.iml" />
+    </modules>
+  </component>
+</project>

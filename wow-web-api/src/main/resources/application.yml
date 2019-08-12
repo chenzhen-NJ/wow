@@ -1,0 +1,15 @@
+server:
+  port: 7001
+dubbo:
+  application:
+    name: web-api-consume
+  registry:
+    address: zookeeper://127.0.0.1:2181
+  consumer:
+    check: "false"
+    cache: "false"
+  protocol:
+    name: dubbo
+    port: 20880
+  monitor:
+    protocol: registry
